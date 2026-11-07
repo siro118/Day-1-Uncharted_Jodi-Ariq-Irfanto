@@ -19,7 +19,7 @@ Keuntungan prompt engineering adalah dapat meningkatkan performa AI model, mengu
 
 B. Git dan GitHub
 
-Git adalah version control system—yang melacak siapa, kapan, dan apa saja yang sudah dirubah dalam suatu file.
+Git adalah version control system yang melacak siapa, kapan, dan apa saja yang sudah dirubah dalam suatu file.
 
 Workflow git: Working directory -> Staging area -> Git directory.
 
